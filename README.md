@@ -1,7 +1,9 @@
 
 # master-data-science
 
-Y empiezo a escfibir TODO 
+
+Y empiezo a escfibir TODO O NADA
+
 
 vjkfhofihnmfkmf
 sdvksjfbvgjfvnb
