@@ -1,0 +1,54 @@
+[33mcommit e90d7ee804b262c22be2ecf8ff3a8f0ea50b862d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Marc Jiménez Silva <Marc Jiménez Silva>
+Date:   Sat Nov 9 09:28:31 2019 +0100
+
+    WIP
+
+[33mcommit 5da40f0eeedb126c73e3b2b56b223f1d323370ed[m
+Author: Marc Jiménez Silva <Marc Jiménez Silva>
+Date:   Sat Nov 9 09:26:35 2019 +0100
+
+    WIP
+
+[33mcommit 26ac6d6d11a6bf4995d0dbe851dd2c5cd80f38fe[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Marc Jiménez Silva <Marc Jiménez Silva>
+Date:   Sat Nov 9 09:23:04 2019 +0100
+
+    cambios
+
+[33mcommit 1417970f17d45aa939c114f78c9c2215124ccab0[m
+Merge: 1abb8db 1188f81
+Author: Marc Jiménez Silva <Marc Jiménez Silva>
+Date:   Fri Nov 8 21:51:00 2019 +0100
+
+    Merge branch 'master' of https://github.com/marcjs95/master-data-science
+
+[33mcommit 1abb8db05b19065167b9a8d7b51d370dac513540[m
+Author: Marc Jiménez Silva <Marc Jiménez Silva>
+Date:   Fri Nov 8 21:39:52 2019 +0100
+
+    segundo cambio
+
+[33mcommit 1188f8140a72e15bfb4f72050ae7224466c7e7a4[m
+Author: marcjs95 <57456175+marcjs95@users.noreply.github.com>
+Date:   Fri Nov 8 21:37:57 2019 +0100
+
+    Update README.md
+
+[33mcommit f30be8a65f0343febdbcae1fc7bee52d0e7bcf51[m
+Author: marcjs95 <57456175+marcjs95@users.noreply.github.com>
+Date:   Fri Nov 8 21:28:11 2019 +0100
+
+    Update README.md
+
+[33mcommit 223b228247d57b9b41ac35ca50f76b39652965ac[m
+Author: Marc Jiménez Silva <Marc Jiménez Silva>
+Date:   Fri Nov 8 21:23:50 2019 +0100
+
+    coambio
+
+[33mcommit 9b4e64239fc7b0d394ec32c668d864aa19f77dd8[m
+Author: marcjs95 <57456175+marcjs95@users.noreply.github.com>
+Date:   Fri Nov 8 19:51:56 2019 +0100
+
+    Initial commit
