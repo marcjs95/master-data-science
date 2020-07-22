@@ -1,5 +1,5 @@
 
-# Master en Data Science
+# Máster en Data Science
 
 ## Predicción de la contaminación en Barcelona
 
