@@ -47,14 +47,17 @@ Como los datos anteriores se deben limpiar y preparar para obtener la serie temp
 ### Predicción de la contaminación
  
 Para realizar la mejor predicción posible con los datos listos se han utilizado distintos modelos para llegar a una buena predicción.
+
 Primero, se ha intentado con un modelo Arima pero se ha visto que es bueno sólo para tener un buen baseline. Después de esto, se ha hecho una regresión lineal para ver si ajusta mejor pero como se puede 
 comprobar en los notebooks se ve que no. Para tener un poco más de libertad en la exploración de los datos y metiendo todas las features de las variables meteorológicas y de los sensores de tráfico pero 
 tampoco da un buen resultado.
+
 A continuación, para poder mejorar la predicción de los datos se ha escogido los árboles de decisión con regresión al principio no daba una buena predicción pero este modelo tiene un parámetro llamado
 max_depth que controla la profundidad de los árboles con ello hace que el modelo empieza ajustarse pero no lo suficiente. Por eso se ha procedido con otra técnica de machine learning,
 el ensemble. La primera técnica esta dentro de la técnica del bagging donde se combina diferentes árboles para poder obtener una mejor predicción es el Random Forest. Pero no ajustado bien por eso se han creado
 diferentes features para poder ajustarlo mejor y que la predicción sea mejor. Se ha podido comprobar que sí pero aún puede ser mejor por eso se ha procedido con la técnica del boosting para esto se ha utilizado
 el algoritmo del XGBoost donde se ha podido comprobar que es el mejor modelo que se ha visto en el proyecto el score del modelo es muy alto.
+
 Todos estos modelos se han hecho para todos las estaciones de contaminates para cada contaminante en relación a sus variables meteorológicas y los sensores de tráfico que les corresponde.
 
 ### Visualizaciones
