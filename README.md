@@ -62,7 +62,7 @@ Todos estos modelos se han hecho para todos las estaciones de contaminates para 
 
 ### Visualizaciones
 
- 
+Para poder ver la relación entre los contaminantes y los parámetros seleccionados se han hecho distintos dashboards con Tableau  
 
 
 
