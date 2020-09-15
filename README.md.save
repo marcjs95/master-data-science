@@ -1,0 +1,54 @@
+
+# Máster en Data Science
+
+## Predicción de la contaminación en Barcelona
+
+### Objetivo
+
+El ánalisis tiene como objetivo la predicción de la contaminación en Barcelona. Para este estudio se ha utilizado distintas fuentes de datos:
+
+-Los datos de contaminación  y los datos meteorológicos de Barcelona, adquiridos mediante los datos abiertos de Catalunya.
+
+-Los datos de los sensores de tráfico de Barcelona, adquiridos mediante Opendata Bcn.
+
+### Descripción de los datos 
+
+#### Datos de la contaminación
+
+En Barcelona hay diez estaciones de medición de contaminación, estos datos comprenden un período de tres años desde enero del 2017 a diciembre de 2019. Para hacer este proyecto, se ha seleccionado sólo tres 
+
+estaciones de las diez estaciones que hay en Barcelona, porque no había datos en todas las estaciones. Las estaciones son el Eixample, Sant Gervasi-Gràcia y Sants. 
+Los contaminantes seleccionados son la família de óxidos de nitrógeno porque Sants sólo mide estos contaminates.
+
+A continuación, Los datos de la contaminación se limpian hasta obtener la serie temporal para hacer los modelos.
+
+#### Datos de las variables meteorológicas
+
+Hay cuatro estaciones meteorológicas en Barcelona pero se ha acotado a tres: Raval, Zona Universitat y Zoo.
+
+Las variables meteorológicas seleccionadas son la temperatura, el viento, la humedad relativa, la presión y la precipitación.
+
+ Como los datos de la contaminación se tienen que limpiar hasta obtener la serie temporal para obtener las predicciones.
+
+#### Datos de los sensores de tráfico
+
+Barcelona tiene más de 600 sensores de tráfico se debe acotar la selección. 
+
+Los sensores seleccionados son 4071, 4095, 20013, 2020, 2021, 8001 y el 8039, cada uno con su respectiva zona.
+
+Como los datos anteriores, se deben limpiar y preparar para obtener la serie temporal para obtener las predicciones.
+
+### Predicción de la contaminación
+ 
+Para realizar la mejor predicción posible con los datos listos, se ha utilizado distintos modelos para llegar a una buena predicción.
+
+Se ha probado con ARIMA, regresión lineal, polinómica, árboles de decisión, random forest y XGBoost.
+
+Todos estos modelos, se han hecho para todos las estaciones de contaminates para cada contaminante en relación a sus variables meteorológicas y los sensores de tráfico que les corresponde.
+
+### Visualizaciones
+
+Para poder ver la relación entre los contaminantes y los parámetros seleccionados, se han hecho distintos dashboards con Tableau.  
+
+
+
